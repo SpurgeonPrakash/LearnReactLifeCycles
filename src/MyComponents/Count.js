@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import GetCount from './GetCount';
 import './Count.css';
+// Program that counts the number of clicks on a button.
 class Count extends Component {
     constructor(props){
         super(props);
